@@ -83,12 +83,16 @@ TablEdit — это приложение для создания, редакти
 
 ## 2.2 Интерфейс пользователя
 При запуске приложения пользователю будет представлено приветственное окно, содержащее формы для входа в уже существующий аккаунт или для создания нового. После проверки корректности введенных учетных данных возможно предоставление доступа к личному кабинету. 
+
 Главный экран
 ![Окно регистрации нового пользователя](https://github.com/H-ppp/TabsShop/blob/main/mockups/WelcomePage.png) 
+
 Поиск композиции
-![Окно с поиском композиции](https://github.com/H-ppp/TabsShop/main/mockups/find_tabs_with_preview_tabs.png) 
+![Окно с поиском композиции](https://github.com/H-ppp/TabsShop//blob/main/mockups/find_tabs_with_preview_tabs.png) 
+
 Просмотр табулатуры
-![Окно с просмотром табулатуры](https://github.com/H-ppp/TabsShop/main/mockups/read_tabs_window.png) 
+![Окно с просмотром табулатуры](https://github.com/H-ppp/TabsShop//blob/main/mockups/read_tabs_window.png) 
+
 <a name="user_specifications"/>
 
 ## 2.3 Характеристики пользователей

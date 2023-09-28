@@ -88,10 +88,10 @@ TablEdit — это приложение для создания, редакти
 ![Окно регистрации нового пользователя](https://github.com/H-ppp/TabsShop/blob/main/mockups/WelcomePage.png) 
 
 Поиск композиции
-![Окно с поиском композиции](https://github.com/H-ppp/TabsShop//blob/main/mockups/FindTabsWithPreview.png) 
+![Окно с поиском композиции](https://github.com/H-ppp/TabsShop/blob/main/mockups/FindTabsWithPreview.png) 
 
 Просмотр табулатуры
-![Окно с просмотром табулатуры](https://github.com/H-ppp/TabsShop//blob/main/mockups/ReadTabs.png) 
+![Окно с просмотром табулатуры](https://github.com/H-ppp/TabsShop/blob/main/mockups/ReadTabs.png) 
 
 <a name="user_specifications"/>
 
